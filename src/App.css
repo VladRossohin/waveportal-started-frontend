@@ -30,5 +30,19 @@
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+}
+
+.waveInfo {
+  background-color: rgb(231, 231, 231);
+  border: 2px solid rgb(97, 97, 97);
+  border-radius: 10px;
+  margin-top: 16px;
+  padding: 8px;
+}
+
+.inputText {
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;
 }
